@@ -1,0 +1,1 @@
+Okay ja em funciona tot des de la terminal :D
